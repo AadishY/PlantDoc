@@ -1,0 +1,23 @@
+*Seamless Landing page which descibes the functions of the application.*
+*disease prediction*
+ - Diagnosis (in para )
+ - Card 1
+   - Name and Plant identification confidence
+   - Diagnosis confidence
+   - Severity
+ - Card 2 (in horziontal containing three separtor word)
+   - Treatment
+   - Causes
+   - Preventation
+ - Card 3
+   -Fertilizer
+ - Card 4 bottom and will be common for all mostly
+   - Care Recommendations
+Things that can be added
+Visual Annotations
+Downloadable Summary
+Contagion Risk
+About the plant
+
+*recommended crop*
+ -Input Nitrogen,Phospohrus, ph, rainfall, weather, state, city
